@@ -1,3 +1,7 @@
-import funciones as funcion
+#llamar a funciones
 
-funcion.menu();
+import funciones as funcion
+Estudiantes = [[]]
+TituloLista = ["NOMBRE", "EDAD", "CURSO", "PROMEDIO"];
+
+funcion.menu(); 
